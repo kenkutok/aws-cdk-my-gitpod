@@ -59,6 +59,11 @@ $ bash utils/refresh_credentials.sh
 => updating ~/.aws/credentials as profile default
 [OK] done
 ```
+Check identity:
+```sh
+$ aws sts get-caller-identity 
+```
+
 If you have different SSO profile name, run it with `AWS_PROFILE`:
 
 ```sh
