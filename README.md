@@ -29,8 +29,8 @@ The following example generate the SSO profile with `default` as the profile nam
 
 ```
 $ aws configure sso --profile default
-SSO start URL [None]: https://xxxxx-sso.awsapps.com/start                                                                                                                               
-SSO Region [None]: us-east-1                                                                                                                                                            
+SSO start URL [None]: https://kenkutok.awsapps.com/start                                                                                                                              
+SSO Region [None]: ap-northeast-1                                                                                                                                                            
 Attempting to automatically open the SSO authorization page in your default browser.
 If the browser does not open or you wish to use a different device to authorize this request, open the following URL:
 
