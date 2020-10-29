@@ -3,7 +3,7 @@ github:
     pullRequestsFromForks: true
     addComment: true
     
-image: pahud/gitpod-workspace
+image: kenkutok/aws-cdk-my-gitpod
 #   file: .gitpod.Dockerfile
 
 
